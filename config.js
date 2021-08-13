@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Xin chào người bạn dễ thương của mình',
     introDesc: `Cậu từ đâu đến?
     Ai sai cậu tới đây?
-    Để đánh cắp trái tim tớ vậy!`,
+    Để đánh cắp trái tim tớ vậy! <3`,
     btnIntro: 'Heliu',
     title: 'Cậu à, cậu đã đánh cắp trái tim tớ',
     desc: 'Vậy thì hãy cho tớ đánh cắp lại tình yêu của cậu nha! Moaaa ',
