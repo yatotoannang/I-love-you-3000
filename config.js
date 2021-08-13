@@ -5,7 +5,7 @@ const CONFIG = {
     Để đánh cắp trái tim tớ vậy!`,
     btnIntro: 'Heliu',
     title: 'Cậu à, cậu đã đánh cắp trái tim tớ',
-    desc: 'Vậy thì hãy cho tớ đánh cắp lại nụ hôn của cậu nha! Moaaa ',
+    desc: 'Vậy thì hãy cho tớ đánh cắp lại tình yêu của cậu nha! Moaaa ',
     btnYes: 'Ỏ, dễ thương ghê, I love you 3000 <3',
     btnNo: 'Còn lâu nhé bạn  :3',
     question:'Trên thế giới này thật là nhiều điều thú vị,vậy cho tớ hỏi cơn gió nào đã đưa cậu đến với tớ vậy <3',
