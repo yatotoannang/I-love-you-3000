@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Wào!! cơn gió thật là đẹp làm sao, nhưng nó vẫn không thể sánh bằng nụ cười của cậu <3 IU cậu nhiều nè chụt chụt :3',
     messDesc: 'Khi nào mời công chúa của tớ đi chơi nhé !',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/aedkss.sanhssduongs'
+    messLink: 'https://www.facebook.com/ongtrum.nguyens'
 }
