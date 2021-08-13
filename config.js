@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'Còn lâu nhé bạn  :3',
     question:'Trên thế giới này thật là nhiều điều thú vị,vậy cho tớ hỏi cơn gió nào đã đưa cậu đến với tớ vậy <3',
     btnReply: 'Gửi cho người tôi yêu <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Cơn gió của tình yêu <33333333',
     mess: 'Wào!! cơn gió thật là đẹp làm sao, nhưng nó vẫn không thể sánh bằng nụ cười của cậu <3 IU cậu nhiều nè chụt chụt :3',
     messDesc: 'Khi nào mời công chúa của tớ đi chơi nhé !',
     btnAccept: 'Okiiiii lun <3',
